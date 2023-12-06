@@ -5,7 +5,7 @@ body {
   
   .navbar {
     display: flex;
-    background-color: #333;
+    background-color: #FC6C85;
     padding: 10px;
     justify-content: space-around;
     position: fixed;
@@ -14,7 +14,7 @@ body {
   }
   
   .nav-link {
-    color: white;
+    color: black;
     text-decoration: none;
     font-size: 18px;
   }
